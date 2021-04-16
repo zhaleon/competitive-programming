@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Grid Paths/Grid Paths.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Apple Division/Apple Division.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Chessboard and Queens/Chessboard and Queens.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Creating Strings/Creating Strings.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Palindrome Reorder/Palindrome Reorder.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Bit Strings/Bit Strings.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Coin Piles/Coin Piles.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Increasing Array/Increasing Array.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Missing Number/Missing Number.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Number Spiral/Number Spiral.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Permutations/Permutations.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Permutations II/Permutations II.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Repetitions/Repetitions.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Trailing Zeroes/Trailing Zeroes.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Two Knights/Two Knights.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Two Sets/Two Sets.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Weird Algorithm/Weird Algorithm.xcodeproj">
+   </FileRef>
+</Workspace>
